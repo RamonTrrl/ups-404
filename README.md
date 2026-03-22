@@ -17,7 +17,7 @@ Este proyecto forma parte de mi blog:
 
 - ✅ Diseño responsivo
 - ✅ Mensaje claro y amigable
-- ✅ Enlaces de retorno al inicio del blog o te llevará a los artículos más interesantes (claro según la opinión del mismísimo browser)
+- ✅ Enlaces de retorno al inicio del blog o te conducirá a los artículos más interesantes (claro según la opinión del mismísimo browser)
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -39,9 +39,9 @@ Este proyecto forma parte de mi blog:
 
 ## 📌 Demo
 
-Si este proyecto está publicado en GitHub Pages, puedes verlo aquí:  
+Este proyecto está publicado en GitHub Pages, puedes verlo aquí:  
 [`https://ramontrrl.github.io/ups-404/`](https://ramontrrl.github.io/ups-404/)  
-*(Si no lo ves publicado, activa GitHub Pages en la configuración del repositorio y ¡voilà!)*
+*(Activa GitHub Pages en la configuración del repositorio y ¡voilà!)*
 
 ---
 PD:
