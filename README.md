@@ -28,9 +28,10 @@ Este proyecto forma parte de nuestros sitios digitales, que sin duda son de dudo
 
 ## 📁 Estructura del proyecto
 
-- `index.html` – Página principal del error 404
-- `styles.css` – Estilos visuales
-- `ups_alt_404-removebg-preview.png` – Imagen de vista previa
+
+- [`index.html`](https://github.com/RamonTrrl/ups-404/blob/main/index.html) – Página principal del error 404
+- [`styles.css`](https://github.com/RamonTrrl/ups-404/blob/main/styles.css) – Estilos visuales
+- [`ups_alt_404-removebg-preview.png`](https://github.com/RamonTrrl/ups-404/blob/main/ups_alt_404-removebg-preview.png) – Imagen de vista previa
 
 ## 🚀 Cómo usarlo
 
