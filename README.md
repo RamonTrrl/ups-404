@@ -10,6 +10,7 @@ Página web personalizada para el error HTTP 404 (página no encontrada), diseñ
 
 Este proyecto forma parte de mi blog:  
 👉 [cronicasdeilusos.blogspot.com](https://cronicasdeilusos.blogspot.com)
+
 👉 [Jifinet](https://jifinetcom.wordpress.com/acerca-de/)
 
 
