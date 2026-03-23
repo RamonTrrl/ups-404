@@ -6,7 +6,7 @@
 
 ## 📝 Descripción
 
-Página web personalizada para el error HTTP 404 (página no encontrada), diseñada para ser alojada en mi [blog personal](https://cronicasdeilusos.blogspot.com) y en la [revista que edito junto a "los hnos TV"](https://jifinetcom.wordpress.com/acerca-de/). La idea es ofrecerte una experiencia amigable y creativa cuando tratas de visitarnos, pero el bendito browser dominante actual al no tenernos en buena estima, pues por su gusto y gana te lleva a una ruta inexistente.
+Página web personalizada para el error HTTP 404 (página no encontrada), diseñada para ser alojada en mi [blog personal](https://cronicasdeilusos.blogspot.com) y en la [revista que edito junto a "los hnos TV"](https://jifinetcom.wordpress.com/acerca-de/). La idea es ofrecerte una experiencia amigable y creativa cuando tratas de visitarnos, pero el "bendito" browser dominante actual al no tenernos en buena estima, pues por su gusto y gana te lleva a una ruta inexistente.
 
 Este proyecto forma parte de nuestros sitios digitales, que sin duda son de dudosa reputación:  
 👉 [cronicasdeilusos.blogspot.com](https://cronicasdeilusos.blogspot.com)
