@@ -48,5 +48,5 @@ Este proyecto está publicado en GitHub Pages, puedes verlo aquí:
 ---
 PD:
 
-_ Proyecto creado para dar un toque geek personal a los errores 404 en mi blog (eso quiero creer!!)
+_ Proyecto creado para dar un toque geek personal a los errores 404 en mi blog (eso quiero creer!!) _
 
