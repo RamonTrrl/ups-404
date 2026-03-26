@@ -43,7 +43,7 @@ Este proyecto forma parte de nuestros sitios digitales, que sin duda son de ***d
 
 Este proyecto está publicado en GitHub Pages, puedes verlo aquí:  
 [`https://ramontrrl.github.io/ups-404/`](https://ramontrrl.github.io/ups-404/)  
-*(Activa GitHub Pages en la configuración del repositorio y ¡voilà!)*
+*(Activa GitHub Pages en la configuración del repositorio y ¡voilà!, sino, mejor picha en el enlace)* 
 
 ---
 PD:
