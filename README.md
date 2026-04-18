@@ -33,13 +33,7 @@ Este proyecto forma parte de nuestros sitios digitales, que sin duda son de ***d
 - [`styles.css`](https://github.com/RamonTrrl/ups-404/blob/main/styles.css) – Estilos visuales
 - [`ups_alt_404-removebg-preview.png`](https://github.com/RamonTrrl/ups-404/blob/main/ups_alt_404-removebg-preview.png) – Imagen de vista previa
 
-## 🚀 Cómo usarlo
-
-1. Clona este repositorio o descarga los archivos.
-2. Sube el contenido a tu servidor o a GitHub Pages.
-3. Configura tu servidor (o plataforma de hosting) para que redirija las páginas no encontradas a este archivo `index.html`.
-
-## 📌 Demo
+## 📌 Demo... de algo genial... casi divino!!!😮😁
 
 Este proyecto está publicado en GitHub Pages, puedes verlo aquí:  
 [`https://ramontrrl.github.io/ups-404/`](https://ramontrrl.github.io/ups-404/)  
